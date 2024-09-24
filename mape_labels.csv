@@ -1,0 +1,17 @@
+,Files,Block,Window,Model,High,Good,Mid,Bad
+0,predicted_series_rnn_block1_w50.csv,1,50,rnn,17,127,39,7
+1,predicted_series_rnn_block1_w20.csv,1,20,rnn,14,120,50,6
+2,predicted_series_rnn_block10_w50.csv,10,50,rnn,162,25,3,0
+3,predicted_series_rnn_block10_w20.csv,10,20,rnn,157,27,6,0
+4,predicted_series_rnn_block20_w50.csv,20,50,rnn,177,13,0,0
+5,predicted_series_rnn_block20_w20.csv,20,20,rnn,178,11,1,0
+6,predicted_series_rnn_block30_w50.csv,30,50,rnn,185,5,0,0
+7,predicted_series_rnn_block30_w20.csv,30,20,rnn,181,9,0,0
+8,predicted_series_lstm_block1_w50.csv,1,50,lstm,17,129,39,5
+9,predicted_series_lstm_block1_w20.csv,1,20,lstm,14,134,39,3
+10,predicted_series_lstm_block10_w50.csv,10,50,lstm,173,16,1,0
+11,predicted_series_lstm_block10_w20.csv,10,20,lstm,169,17,4,0
+12,predicted_series_lstm_block20_w50.csv,20,50,lstm,183,5,2,0
+13,predicted_series_lstm_block20_w20.csv,20,20,lstm,182,8,0,0
+14,predicted_series_lstm_block30_w50.csv,30,50,lstm,185,4,1,0
+15,predicted_series_lstm_block30_w20.csv,30,20,lstm,182,8,0,0
